@@ -24,5 +24,6 @@ To get started with AI Blog Maker, follow these steps:
 ## Usage
 
 To start, run the following command:
-```streamlit run app.py
+```bash
+    streamlit run app.py
     ```
